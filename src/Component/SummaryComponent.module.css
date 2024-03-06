@@ -1,0 +1,129 @@
+/* SummaryComponent.module.css */
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.summaryContainer {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.summaryContainer h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.summaryContainer p {
+    margin-bottom: 8px;
+}
+.track{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.totalBox {
+    border: 1px solid #161616;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 200;
+    margin-left: 50px;
+
+
+    width:270px;
+    height: 200px;
+    margin-bottom: 10px;
+    background-color:#5B9A8B;
+    color: white;
+    /* font-size: 80px; */
+}
+.totalBox p{
+    justify-content: center;
+    text-align: center;
+    /* margin-left: 35px; */
+}
+.totalBox h2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 39px;
+}
+/* .totalBox h2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 39px;
+
+}
+     */
+
+
+.remainingbox {
+    border: 1px solid #202020;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    /* min-width: 200px; */
+    width: 270px;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-right: 80px;
+    
+
+
+    
+    height: 200px;
+    margin-bottom: 10px;
+    background-color:rgb(45, 149, 150);
+    color: white;
+}
+.remainingbox p{
+    justify-content: center;
+    text-align: center;
+}
+.remainingbox h2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 39px;
+
+}
+.spentBox{
+    border: 1px solid #202020;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    /* min-width: 200px; */
+    width: 270px;
+    border-radius: 10px;
+   
+    
+
+
+    
+    height: 200px;
+    margin-bottom: 10px;
+    background-color: #4B527E;
+    color: white;
+
+}
+.spentBox p{
+    justify-content: center;
+    text-align: center;
+}
+.spentBox h2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 39px;
+}
+

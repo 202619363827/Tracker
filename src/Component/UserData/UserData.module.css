@@ -1,0 +1,21 @@
+.tableWrapper{
+    width: auto;
+    background-color: #8cb0e7;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.table{
+    width: 100%;
+}
+
+.table thead{
+    width: 100%;
+}
+
+.tr th{
+    border: 1px solid black;
+    width: 20px;
+}
+
+

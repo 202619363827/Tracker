@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+{
+    "summary": {
+      "budget": 10000,
+      "expenses": [
+        { "id": 1, "name": "Groceries", "cost": 500 },
+        { "id": 2, "name": "Dining out", "cost": 300 },
+        { "id": 3, "name": "Shopping", "cost": 700 }
+      ]
+    }
+  }
+  

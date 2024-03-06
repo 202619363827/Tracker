@@ -1,0 +1,11 @@
+.tbody {
+    width: 100%;
+}
+
+.tbody td {
+    border: 1px solid black;
+    text-align: center;
+    min-height: 40px;
+    width: 200px;
+    word-wrap: break-word;
+}
