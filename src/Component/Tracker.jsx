@@ -56,7 +56,7 @@
 
 
 
-// SummaryComponent.js
+SummaryComponent.js
 import { useState, useEffect } from 'react';
 import styles from './SummaryComponent.module.css'; 
 
@@ -127,9 +127,6 @@ function SummaryComponent() {
 }
 
 export default SummaryComponent;
-
-
-
 
 
 
